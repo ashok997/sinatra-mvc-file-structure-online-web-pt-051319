@@ -1,4 +1,4 @@
-class Dog < Sinatra::Base
+class Dog < Active Record::Base
   
 
 end
